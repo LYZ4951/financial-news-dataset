@@ -1,0 +1,10 @@
+-- DataStax raises $106 mln to take on Oracle, Microsoft 
+-- By Sarah McBride
+-- Thu Sep 04, 2014 03:40PM EDT
+-- None
+
+
+
+SAN FRANCISCO, Sept. 4 (Reuters) - DataStax, which helps companies deal with the vast troves of data scattered around the Internet, said it had raised $106 million, further enabling it take on incumbents such as Oracle Corp <ORCL.N> and Microsoft Corp <MSFT.O>.
+
+DataStax uses a technology known as Apache Cassandra, one of a new breed of so-called NoSQL databases that offer more flexibility than traditional databases. Traditional incumbents include Oracle's MySQL, Microsoft's SQL Server and IBM's DB2. "Cassandra, from the day it was created, was built to withstand unbelievable amounts of failure in the underlying system and still be available," said Billy Bosworth, DataStax's chief executive officer. In the event of floods or earthquakes, for example, data is still available due to replication at other data centers.  Spending around NoSQL technology, including on software development, license fees, and hardware, should reach $3.4 billion by 2020, according to consultancy Market Research Media Ltd, up from less than $1 billion last year. DataStax competitors include MongoDB, which has raised $231 million from venture firms such as Union Square and Sequoia Capital, and Couchbase, which has raised $100 milion from firms such as Accel, Ignition Partners and Mayfield. The latest round, led by new investor Kleiner Perkins Caufield & Byers, brings DataStax's total funding to $190 million. Additional new investors include ClearBridge, Cross Creek, Wasatch, PremjiInvest and Comcast Ventures.

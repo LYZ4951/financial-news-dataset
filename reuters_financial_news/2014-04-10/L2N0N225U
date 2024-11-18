@@ -1,0 +1,10 @@
+-- U.S. regulators tell banks to address 'Heartbleed' risk
+-- By Emily Stephenson
+-- Thu Apr 10, 2014 05:24PM EDT
+-- None
+
+
+
+WASHINGTON, April 10 (Reuters) - U.S. financial regulators on Thursday told banks to upgrade their systems as soon as possible if they are vulnerable to the recently uncovered "Heartbleed" bug, which exposes data to hackers.
+
+The Federal Financial Institutions Examination Council, an interagency group that includes the Federal Reserve and the Federal Deposit Insurance Corp, said banks also should set up temporary patches for any systems using the Web encryption program known as OpenSSL and warn their outside service providers to take action. Researchers said this week they found evidence of hackers scanning the Internet in search of Web servers running the widely used encryption program.  The bug, which apparently has existed since 2011 but was only recently discovered, means many websites could be vulnerable to theft of data including passwords and credit card numbers. [ID:nL2N0N11SC] "Attackers could potentially impersonate bank services or users, steal login credentials, access sensitive email, or gain access to internal networks," the Federal Financial Institutions Examination Council said in its warning to banks.

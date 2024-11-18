@@ -1,0 +1,10 @@
+-- Australia's GE Money warns customers of 'Heartbleed' bug
+-- By Swati Pandey
+-- Tue Apr 15, 2014 04:14AM EDT
+-- None
+
+
+
+SYDNEY, April 15 (Reuters) - Financial services firm GE Money has warned Australian customers against "worldwide internet vulnerabilities", urging them to change online passwords after a bug surfaced this month hitting email systems, security firewalls and possibly, mobile phones.
+
+"Heartbleed" surfaced in April, when it was disclosed that a pernicious flaw in a widely used Web encryption program known as OpenSSL opened hundreds of thousands of websites to data theft. Developers rushed out patches to fix affected web servers when they disclosed the problem, which affected companies from Amazon.com Inc <AMZN.O> and Google Inc <GOOG.O> to Yahoo Inc <YHOO.O>. Yet pieces of vulnerable OpenSSL code can be found in several other locations, from email servers to ordinary PCs, phones and even security products, such as firewalls. Developers of those products are scrambling to figure out whether they are vulnerable and patch them to safeguard users. [ID:nL2N0N11SC] The Sydney Morning Herald reported that financial websites run by GE Money, including the Myer Visa Card and Myer Card portals, as well as Coles Mastercard, were vulnerable to the Heartbleed security bug. Many of the affected websites have since been patched against Heartbleed or are in the process of being patched, the newspaper said.  Myer Visa Card and Coles Master Card online login pages have a security update that navigates to GE Money, which runs those financial websites, asking customers to change passwords. "We have taken precautions and steps to protect the security of our customers' data and we have no reason to believe any customer data has been compromised," a spokeswoman for GE said in a statement on Tuesday.

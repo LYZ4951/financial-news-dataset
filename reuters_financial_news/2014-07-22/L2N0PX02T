@@ -1,0 +1,10 @@
+-- Over 30 financial institutions defrauded by phone apps used to intercept passwords
+-- By Joseph Menn
+-- Tue Jul 22, 2014 09:56AM EDT
+-- None
+
+
+
+SAN FRANCISCO, July 22 (Reuters) - More than 30 financial institutions in six countries have been defrauded by sophisticated criminal software that convinces bank customers to install rogue smartphone programs, a major security company reported on Tuesday.
+
+Though many of the elements of the malicious software, including the interception of one-time passwords sent to phones, have been used elsewhere, the latest criminal campaign is unusual in that it combines many different techniques and leaves few traces. Researchers at Trend Micro Inc <4704.T>, which dubbed the campaign Emmental after the Swiss cheese, said they were working with European police and major banks on the continent that were early victims. Banks in Austria, Sweden, Switzerland and Japan have all been hit, with damages somewhere in the millions of dollars, said Trend Micro Chief Cybersecurity Officer Tom Kellermann. Kellermann said that some of the attackers were in Romania but that the leader spoke Russian and could be based there. The least sophisticated part of the gang's work so far appears to be in the delivery of the software, according to a report by Trend Micro researchers. Emails that appear to be from major retailers come with attachments that, when opened, prompt the user to download a malicious attachment of an unusual type, called a control panel item. If users do not click again, they are safe. If they do, the software goes to work and hides itself out of view of most antivirus protection. When an infected user later tries to visit the website of one of the targeted banks, the software redirects them to a fake site, which asks for login details and then prompts the user to download a smartphone app. That app later intercepts the one-time passwords, giving the gang both that data as well as the login information, enough to clean out an account.

@@ -1,0 +1,10 @@
+-- JPMorgan data breach entry point identified -NYT
+-- By Supriya Kurane in Bengaluru
+-- Mon Dec 22, 2014 10:06PM EST
+-- None
+
+
+
+Dec 22 (Reuters) - A computer breach at JPMorgan Chase & Co <JPM.N> earlier this year could have been avoided if the bank had installed a simple security fix to an overlooked server in its network, the New York Times reported, citing people briefed on investigations.
+
+In October, JPMorgan Chase revealed that names, addresses, phone numbers and email addresses of the holders of some 83 million accounts were exposed when the bank's computer systems were compromised by hackers, making it one of the biggest data breaches in history. [ID:nL2N0RY1ZB] The weak spot at the bank appears to have been a very basic one - the bank did not use a double authentication scheme, known as two-factor authentication, the paper reported. (http://nyti.ms/1zdvK32) JPMorgan's security team had apparently neglected upgrading one of its network servers with the dual password scheme, the newspaper said, citing people who did not want to be identified because the investigation into the attack was incomplete.  Officials at JP Morgan were not immediately available for comment outside regular U.S. business hours.

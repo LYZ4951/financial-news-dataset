@@ -1,0 +1,10 @@
+-- No trades busted or adjusted after NYSE data processor incident
+-- By Herbert Lash
+-- Fri Oct 31, 2014 01:18PM EDT
+-- None
+
+
+
+NEW YORK, Oct 31 (Reuters) - No trades were broken or adjusted when a hardware failure on Thursday interrupted the flow of quotes and last sale price at the five stock and options exchanges operated by the group that oversees the New York Stock Exchange, a spokesman said Friday.
+
+The hardware failure impacted data feeds for about half an hour at the NYSE Group's primary data center in Mahwah, New Jersey, forcing the unit of Intercontinental Exchange Inc <ICE.N> to switch to its back-up recovery center in Chicago. The processing of quotes and trade reports resumed at Mahwah on Friday, said NYSE spokesman Eric Ryan. There were no adjusted or broken trades because of Thursday's incident, he said. NYSE offered no further details of what caused the data feeds to experience difficulties in publishing and receiving trade and quote information. The incident affected all securities information processors that are managed by SIAC, a unit of NYSE Group. The data systems gained notoriety because of a three-hour trading halt in Nasdaq-listed shares in August 2013, which prompted the Securities and Exchange Commission to demand greater resiliency of the "SIPs."  The operating and advisory committees meet quarterly with the SEC to review SIP performance and discuss policy matters, NYSE says on its Web site.
